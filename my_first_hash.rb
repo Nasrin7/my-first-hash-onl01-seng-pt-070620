@@ -1,4 +1,6 @@
+require 'pry'
 def my_hash
+  binding.pry
   myson_hash = {"name" => "Mateen" , "age" => 5 , "favorite color" => "green"}
 end
 
