@@ -1,4 +1,4 @@
-require 'pry'
+
 def my_hash
   myson_hash = {"name" => "Mateen" , "age" => 5 , "favorite color" => "green"}
 end
@@ -27,6 +27,5 @@ def adding
   
   shipping_manifest["muskets"] = 2
   shipping_manifest["gun powder"] = 4
-  binding.pry
   shipping_manifest
 end
