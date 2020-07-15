@@ -14,7 +14,7 @@ def retrieval
                   "porcelain vases" => 2, 
                   "oil paintings" => 3
                  }
-                 binding.pry
+              
   shipping_manifest["oil paintings"]
 end
 
