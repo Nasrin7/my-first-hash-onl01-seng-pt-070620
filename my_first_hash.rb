@@ -1,7 +1,5 @@
 def my_hash
-  my_hash = 
-
-  
+  myson_hash = {"name" => "Mateen" , "age" => 5 , "favorite color" => "green"}
 end
 
 
